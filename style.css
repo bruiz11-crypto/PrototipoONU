@@ -8,7 +8,7 @@
 
     /* BODY */
     body {
-    background: linear-gradient(135deg, #89f7fe, #66a6ff);
+    background: linear-gradient(135deg, yellow, red);
     color: #333;
     line-height: 1.6;
     min-height: 100vh;
